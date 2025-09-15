@@ -11,7 +11,7 @@
 
 2. 테스트 대상
 - my-demo-app-android (Version 2.2.0)
-- URL : https://github.com/saucelabs/my-demo-app-android
+- URL : https://github.com/saucelabs/my-demo-app-android/releases/tag/2.2.0
 
 3. 테스트 내용
 - 로그인
